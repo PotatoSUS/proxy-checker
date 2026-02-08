@@ -86,6 +86,7 @@ pub const DATACENTER_ASNS: &[&str] = &[
     "AS202425", // IP Volume
     "AS35913",  // DediPath
     "AS396356", // Maxihost
+    "AS31898"   // Oracle Corporation
 ];
 
 // Common vpn/proxy provider names in whois data
